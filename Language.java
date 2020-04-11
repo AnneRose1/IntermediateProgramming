@@ -1,4 +1,4 @@
-/* Made by Annabel Adeyeri for Intermediate Programming on 4/7/2020.*/
+/* Made by Annabel Adeyeri for Intermediate Programming on 4/7/2020. Program gives info on various languages.*/
 class Language{
   protected String name;
   protected String regionsSpoken;
